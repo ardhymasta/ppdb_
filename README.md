@@ -1,4 +1,15 @@
-![landing page](https://github.com/ardhymasta/ppdb_/assets/91303125/087202bb-706f-4dc3-afc0-bf9ac522b4b5)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PPDB</title>
+</head>
+<body>
+    <H2>landing page</H2>
+    ![landing page](https://github.com/ardhymasta/ppdb_/assets/91303125/087202bb-706f-4dc3-afc0-bf9ac522b4b5)
+</body>
+</html>
 
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
