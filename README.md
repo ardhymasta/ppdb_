@@ -1,5 +1,10 @@
 
-    ![landing page](https://github.com/ardhymasta/ppdb_/assets/91303125/087202bb-706f-4dc3-afc0-bf9ac522b4b5)
+![landing page](https://github.com/ardhymasta/ppdb_/assets/91303125/91e2164e-98da-4c12-a30d-f13d8e25ca36)
+![regis](https://github.com/ardhymasta/ppdb_/assets/91303125/fa9c673d-a7f8-442e-a8c3-49fc11d58c4e)
+![login](https://github.com/ardhymasta/ppdb_/assets/91303125/5bf36686-816d-4489-820e-c9a3f4f80a52)
+![dashboard](https://github.com/ardhymasta/ppdb_/assets/91303125/5956b4ef-1749-4712-8794-2d01a543a589)
+![payment](https://github.com/ardhymasta/ppdb_/assets/91303125/414742fb-63c8-4292-aab5-41e949972b64)
+![payment](https://github.com/ardhymasta/ppdb_/assets/91303125/d12f2dc7-8714-4cf9-9721-72464b45bea1)
 
 
 
