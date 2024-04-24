@@ -1,8 +1,16 @@
-
+## Landing Page
 ![landing page](https://github.com/ardhymasta/ppdb_/assets/91303125/91e2164e-98da-4c12-a30d-f13d8e25ca36)
+
+## Registration
 ![regis](https://github.com/ardhymasta/ppdb_/assets/91303125/fa9c673d-a7f8-442e-a8c3-49fc11d58c4e)
+
+## Login
 ![login](https://github.com/ardhymasta/ppdb_/assets/91303125/5bf36686-816d-4489-820e-c9a3f4f80a52)
+
+## Dashboard
 ![dashboard](https://github.com/ardhymasta/ppdb_/assets/91303125/5956b4ef-1749-4712-8794-2d01a543a589)
+
+## Payment
 ![payment](https://github.com/ardhymasta/ppdb_/assets/91303125/414742fb-63c8-4292-aab5-41e949972b64)
 
 
