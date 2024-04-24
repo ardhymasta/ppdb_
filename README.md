@@ -4,7 +4,7 @@
 ![login](https://github.com/ardhymasta/ppdb_/assets/91303125/5bf36686-816d-4489-820e-c9a3f4f80a52)
 ![dashboard](https://github.com/ardhymasta/ppdb_/assets/91303125/5956b4ef-1749-4712-8794-2d01a543a589)
 ![payment](https://github.com/ardhymasta/ppdb_/assets/91303125/414742fb-63c8-4292-aab5-41e949972b64)
-![payment](https://github.com/ardhymasta/ppdb_/assets/91303125/d12f2dc7-8714-4cf9-9721-72464b45bea1)
+
 
 
 
